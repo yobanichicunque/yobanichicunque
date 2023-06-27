@@ -8,7 +8,7 @@
 
 <img width="400" height="auto" align="right" src="https://jonmircha.com/img/apoyo.jpg">
 
-Profesor, programador web y creador de contenidos ubicado en México.
+Profesor, programador web y creador de contenidos ubicado en Putumayo, Colombia.
 
 **Como profesor** tengo amplia experiencia en universidades, posgrados, sector privado y educación en línea.
 
