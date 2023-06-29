@@ -1,4 +1,4 @@
-**Hola, soy tu amigo y docente digital...**
+**Hola, soy Front-end Developer y apasionado por la tecnología...**
 
 <div align="right">
 
