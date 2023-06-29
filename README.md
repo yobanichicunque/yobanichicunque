@@ -1,4 +1,4 @@
-**Hola, soy Front-end Developer y apasionado por la tecnología...**
+**Front-end Developer y apasionado por la tecnología...**
 
 <div align="right">
 
