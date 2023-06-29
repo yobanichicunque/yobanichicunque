@@ -18,9 +18,9 @@ Profesor, programador web y creador de contenidos ubicado en Putumayo, Colombia.
 
 Para más información visita mi sitio <a href="https://jonmircha.com" target="_blank" rel="noopener">yobanichicunque.com</a>.
 
-Tengo un canal en <a href="https://www.youtube.com/jonmircha?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _web_.
+Tengo un canal en <a href="https://www.youtube.com/@yobanichicunque?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _web_.
 
-Si te gusta mi contenido puedes invitarme un taco 🌮 por <a href="https://jonmircha.com/taco" target="_blank" rel="noopener"> _**Paypal**_</a>.
+Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://jonmircha.com/taco" target="_blank" rel="noopener"> _**Paypal**_</a>.
 
 <a href="https://www.youtube.com/jonmircha?sub_confirmation=1" target="_blank" rel="noopener">
   <img align="center" src="https://jonmircha.com/img/youtube-banner.jpg">
