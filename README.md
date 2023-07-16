@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="400" height="auto" align="right" src="https://jonmircha.com/img/apoyo.jpg">
+<img width="400" height="auto" align="right" src="https://github.com/yobanichicunque/documentacion/blob/main/static/imagenes/youtube-front-end-1.jpg">
 
 Profesor, programador web y creador de contenidos ubicado en Putumayo, Colombia.
 
