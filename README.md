@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy Yobani Chicunque, un apasionado programador web con experiencia en el desarrollo de aplicaciones web utilizando Django y Vue.js. Mi objetivo es crear soluciones robustas y elegantes que satisfagan las necesidades de los usuarios y superen sus expectativas.
+¡Hola! Soy Yobani Chicunque, un apasionado programador web con experiencia en el desarrollo de aplicaciones utilizando Django y Vue.js. Mi objetivo es crear soluciones robustas y elegantes que satisfagan las necesidades de los usuarios y superen sus expectativas.
 
 ## ¿Qué puedo hacer?
 
