@@ -1,30 +1,25 @@
-# Bienvenido a mi perfil de GitHub 👋
+**Front-end Developer y apasionado por la tecnología...**
 
-¡Hola! Soy Yobani Chicunque, un apasionado programador web con experiencia en el desarrollo de aplicaciones utilizando Django y Vue.js. Mi objetivo es crear soluciones robustas y elegantes que satisfagan las necesidades de los usuarios y superen sus expectativas.
+<div align="right">
 
-## ¿Qué puedo hacer?
+# Yobani Chicunque
 
-- **Desarrollo Web con Django**: Tengo experiencia en la creación de aplicaciones web potentes y escalables utilizando el framework Django de Python. Desde la configuración inicial del proyecto hasta la implementación de características complejas, puedo ayudarte a llevar tu idea desde la concepción hasta la realidad.
+</div>
 
-- **Interfaz de Usuario Dinámica con Vue.js**: Utilizo Vue.js para crear interfaces de usuario interactivas y fluidas. Desde componentes simples hasta aplicaciones de página única (SPA), estoy capacitado para diseñar y desarrollar experiencias de usuario modernas y atractivas.
+<img width="400" height="auto" align="right" src="https://github.com/yobanichicunque/documentacion/blob/main/static/imagenes/youtube-front-end-1.jpg">
 
-- **Integración de Tecnologías**: Me especializo en integrar Django y Vue.js de manera efectiva para crear aplicaciones web completas y cohesivas. Ya sea a través de RESTful APIs o GraphQL, puedo garantizar una comunicación eficiente entre el frontend y el backend de tu aplicación.
+Programador web y creador de contenidos ubicado en Putumayo, Colombia.
 
-## Proyectos Destacados
+**Como programador _web_** he trabajado para empresas como _MVS_, _Voit_, _Condé Nast_, _Aeroméxico_, _SIEMENS_, _Costco_, _Herman Miller_, etc.
 
-- **[Proyecto 1](link_al_proyecto_1)**: Breve descripción del proyecto y tecnologías utilizadas.
-- **[Proyecto 2](link_al_proyecto_2)**: Breve descripción del proyecto y tecnologías utilizadas.
-- **[Proyecto 3](link_al_proyecto_3)**: Breve descripción del proyecto y tecnologías utilizadas.
+**Como creador de contenidos** elaboro material digital de valor para mi audiencia: videos, cursos, tutoriales, artículos, notas, podcast, vlogs, reflexiones, etc.
 
-## Contacto
+Para más información visita mi sitio <a href="https://yobanichicunque.com" target="_blank" rel="noopener">yobanichicunque.com</a>.
 
-¡Me encantaría colaborar contigo en tu próximo proyecto! Si estás interesado en trabajar juntos o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme:
+Tengo un canal en <a href="https://www.youtube.com/@misteryobani?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _web_.
 
-- **Correo Electrónico**: [yobanichicunque@gmail.com](mailto:yobanichicunque@gmail.com)
-<!--
-- **Correo Electrónico**: [tu_correo@gmail.com](mailto:tu_correo@example.com)
-- **LinkedIn**: [Tu Nombre en LinkedIn](link_a_tu_perfil)
-- **Sitio Web Personal**: [www.tusitio.com](https://www.tusitio.com)
--->
+Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yobanichicunque.com/helado" target="_blank" rel="noopener"> _**Paypal**_</a>.
 
-¡Gracias por visitar mi perfil! Espero tener la oportunidad de colaborar contigo pronto.
+<a href="https://www.youtube.com/@yobanichicunque?sub_confirmation=1" target="_blank" rel="noopener">
+  <img align="center" src="https://github.com/yobanichicunque/documentacion/blob/main/static/imagenes/youtube-banner.jpg">
+</a>
