@@ -14,7 +14,7 @@ Programador web y creador de contenido ubicado en Putumayo, Colombia.
 
 **Como creador de contenido** elaboro material digital de valor para mi audiencia: videos, cursos, tutoriales, artículos, notas, podcast, vlogs, reflexiones, etc.
 
-Para más información visita mi sitio <a href="https://yobanichicunque.com" target="_blank" rel="noopener">misteryobani.com</a>.
+Para más información visita mi sitio <a href="https://yobanichicunque.pythonanywhere.com/" target="_blank" rel="noopener">misteryobani.com</a>.
 
 Tengo un canal en <a href="https://www.youtube.com/@misteryobani?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _Inteligencia Artificial_.
 
