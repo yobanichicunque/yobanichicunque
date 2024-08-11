@@ -20,6 +20,6 @@ Tengo un canal en <a href="https://www.youtube.com/@misteryobani?sub_confirmatio
 
 Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yobanichicunque.com/helado" target="_blank" rel="noopener"> _**Paypal**_</a>.
 
-<a href="https://www.youtube.com/@misteryobani?sub_confirmation=1" target="_blank" rel="noopener">
+<!-- <a href="https://www.youtube.com/@misteryobani?sub_confirmation=1" target="_blank" rel="noopener">
   <img align="center" src="https://github.com/yobanichicunque/documentacion/blob/main/static/imagenes/youtube-banner.jpg">
-</a>
+</a> -->
