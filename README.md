@@ -44,3 +44,23 @@ Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yo
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> **Git**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> **GitHub**
+
+----
+
+## Skills
+
+### Desarrollo Web
+
+| ![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) **Visual Studio Code** | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML** | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS** |
+|---|---|---|
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript** | ![React.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React.js** |   |
+
+### Backend
+
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) **Django** | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) **MySQL** |
+|---|---|---|
+
+### Control de Versiones
+
+| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git** | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub** |   |
+|---|---|---|
