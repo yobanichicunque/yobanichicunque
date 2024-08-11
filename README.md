@@ -46,9 +46,5 @@ Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yo
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> **Git**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> **GitHub**
 
-### Otras
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="20" height="20"/> **Visual Studio Code**
-- **Terminal de comandos**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="20" height="20"/> **Markdown**
 
