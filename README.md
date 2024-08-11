@@ -38,7 +38,6 @@ Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yo
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> **Python**
 - <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="20" height="20"/> **Django**
-- <img src="https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" width="20" height="20"/> **Django Rest Framework**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> **MySQL**
 
 ### Control de Versiones
