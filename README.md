@@ -47,13 +47,13 @@ Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yo
 
 ----
 
+
 ## Skills
 
 ### Desarrollo Web
 
-| ![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) **Visual Studio Code** | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML** | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS** |
-|---|---|---|
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript** | ![React.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React.js** |   |
+| ![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) **Visual Studio Code** | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML** | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS** | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript** | ![React.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React.js** |
+|---|---|---|---|---|
 
 ### Backend
 
@@ -62,5 +62,5 @@ Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yo
 
 ### Control de Versiones
 
-| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git** | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub** |   |
-|---|---|---|
+| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git** | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub** |
+|---|---|
