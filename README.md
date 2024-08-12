@@ -20,10 +20,6 @@ Tengo un canal en <a href="https://www.youtube.com/@misteryobani?sub_confirmatio
 
 Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yobanichicunque.com/helado" target="_blank" rel="noopener"> _**Paypal**_</a>.
 
-<!-- <a href="https://www.youtube.com/@misteryobani?sub_confirmation=1" target="_blank" rel="noopener">
-  <img align="center" src="https://github.com/yobanichicunque/documentacion/blob/main/static/imagenes/youtube-banner.jpg">
-</a> -->
-
 ## Skills
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -33,5 +29,5 @@ Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yo
 [![Django](https://img.shields.io/badge/Django-4.0+-green?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.djangoproject.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-2.0+-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/yobanichicunque)
 
