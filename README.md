@@ -1,4 +1,4 @@
-**¡👋Hola! Bienvenido, soy...**
+**¡👋Hola! Bienvenidos, soy...**
 
 <div align="right">
 
