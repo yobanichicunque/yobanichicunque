@@ -12,15 +12,13 @@ Programador web y creador de contenido ubicado en Putumayo, Colombia.
 
 **Como programador _web_** he trabajado para empresas como _MVS_, _Voit_, _Condé Nast_, _Aeroméxico_, _SIEMENS_, _Costco_, _Herman Miller_, entre otras.
 
-**Como creador de contenido** elaboro material digital de valor para mi audiencia: videos, cursos, tutoriales, artículos, notas, podcast, vlogs, reflexiones, etc.
+**Como creador de contenido** elaboro material digital de valor para mi audiencia: videos, cursos, tutoriales, artículos, notas, podcast, vlogs, reflexiones, etc. Tengo un canal en <a href="https://www.youtube.com/@misteryobani?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _Inteligencia Artificial_.
 
 Para más información visita mi sitio <a href="https://yobanichicunque.pythonanywhere.com/" target="_blank" rel="noopener">misteryobani.com</a>.
 
-Tengo un canal en <a href="https://www.youtube.com/@misteryobani?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _Inteligencia Artificial_.
-
 Si te gusta mi contenido puedes invitarme un helado 🍨 por <a href="https://yobanichicunque.com/helado" target="_blank" rel="noopener"> _**Paypal**_</a>.
 
-## Skills
+## Conocimientos
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/CSS)
