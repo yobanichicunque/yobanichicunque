@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="400" height="auto" align="right" src="https://github.com/yobanichicunque/documentacion/blob/main/static/imagenes/programador_web_2.jpg">
+<img width="400" height="auto" align="right" src="https://github.com/yobanichicunque/documentacion/blob/main/static/imagenes/programador_web.jpg">
 
 Programador web y creador de contenido ubicado en Putumayo, Colombia.
 
